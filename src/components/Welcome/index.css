@@ -1,0 +1,35 @@
+.bg-container {
+  background-color: #1e293b;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-family: Bree Serif;
+  font-size: 5rem;
+  font-weight: bold;
+  color: #f0bb03;
+  margin-bottom: 0;
+}
+
+.des {
+  font-size: 2rem;
+  font-family: Bree Serif;
+  color: #ffffff;
+  margin-top: 0;
+}
+
+.btn {
+  height: 70px;
+  width: 240px;
+  background-color: #ffffff;
+  font-size: 25px;
+  border-radius: 20px;
+  font-family: Bree Serif;
+  color: #1e293b;
+  border: none;
+}
